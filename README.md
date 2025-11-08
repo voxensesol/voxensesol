@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/aJgnA8Q.png" width="100" alt="VOXENSE Logo"/>
 </p>
 
-<h1 align="center">🛰️ VOXENSE — The Real-World Sensor Network</h1>
+<h1 align="center">🛰️ VOXENSE The Real-World Sensor Network</h1>
 
 <p align="center">
   <i>Founder • Builder • Developer in Web3, DePIN & AI-driven IoT</i><br/>
@@ -17,7 +17,7 @@
 
 ### 👋 Hey, I’m @voxensesol  
 I’m building **VOXENSE**, a **Real-World Sensor Network** that connects GPS, Audio, Ambient, and Motion sensors to the blockchain.  
-Through **Proof-of-Sensing (PoS)**, each node can verify real-world activity and earn rewards — turning the environment into a cryptographic economy.
+Through **Proof-of-Sensing (PoS)**, each node can verify real-world activity and earn rewards turning the environment into a cryptographic economy.
 
 > Building the bridge between the physical world and digital truth.
 
